@@ -1,1 +1,1 @@
-
+return document.getElementsByTagName('div')
